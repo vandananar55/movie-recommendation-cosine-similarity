@@ -27,6 +27,6 @@ make query
 
 get recommendation on basis of this query
 
-# cossine.py 
+# cosine.py 
 run this command to execute this code.
 
